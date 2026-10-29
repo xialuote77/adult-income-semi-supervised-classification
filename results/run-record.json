@@ -1,0 +1,41 @@
+{
+  "seed": 42,
+  "validation_fraction": 0.2,
+  "threshold_grid": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    10,
+    12,
+    15,
+    20
+  ],
+  "selected_threshold": 10,
+  "selected_pseudo_rows": 4742,
+  "train_raw_rows": 16280,
+  "train_complete_rows": 15076,
+  "unlabelled_raw_rows": 16281,
+  "unlabelled_complete_rows": 15059,
+  "train_main_rows": 12060,
+  "validation_rows": 3016,
+  "test_rows": 16281,
+  "python": "3.13.13",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "scikit_learn": "1.8.0",
+  "sha256": {
+    "train": "a8591570b5954db3af5c8dfd4ae5cbe7a0df2e20dad5b6e5e2445aeac0d24dc6",
+    "unlabelled": "b04b3ba8935395ec28ed5e9b9fb0ef577b260688ea523f2d34187d5460e75b2e",
+    "test": "3cb273fa68265268ede5d16ccafd9bf5bb33857405a7351150467670a80ffc6e"
+  },
+  "checks": {
+    "split_row_indices_disjoint": true,
+    "encoding_and_medians_fit_on_training_partition": true,
+    "single_prior_matches_density_formula": true,
+    "unseen_categories_finite": true,
+    "missing_continuous_uses_training_median": true,
+    "combined_training_count": true
+  }
+}
