@@ -1,0 +1,20 @@
+{
+  ".gitignore": "adbbb0ec0d3090ecec12f6469a87c4f8edb88f36a351f2f261ef030e4efb4d1e",
+  "docs/CONTRIBUTIONS.md": "fc05436abaed03d37b374d0eb495e4927c46babc2dcb37f7b76e51edd0b84f25",
+  "docs/REVIEW.md": "86137934bb4b27712f5c661c667ceb6e3b9f8e6ed891eedd4084b2adea7160c3",
+  "notebooks/historical_submission.ipynb": "88eff10a25274ee65aef4458d31bc3f436cdbaceb39e5b923bda62d68f59dc50",
+  "notebooks/reviewed_experiment.ipynb": "7b094df85318551d07f1ffb180f6539308b6e00e432c2d983d3e1976aef3a8d0",
+  "README.md": "b47a1e3c111beac4ed99e0807f7b8673c4c26d01d055e4cabb85fb7092cb3f15",
+  "reports/historical-coursework-report.pdf": "eb4044f0ec81dfe452314dd0d6a11dd1fa0551acf9c0b935c1f705eb158182c0",
+  "reports/README.md": "79131e33558496d203bee469809374203920a16d09fc5bb065b54331a4a6b435",
+  "requirements.txt": "0e33d3a9e27c2d4cff9fa143c2f9c752b4bafd65a1300422d195cf70b60104c2",
+  "results/confusion-matrices.png": "a75e5262b1e9233e5a6d5f549b3130a458b944ad7f731696d261fcbbfd275d71",
+  "results/performance-and-threshold.png": "c34006222726467cdfd074f06f2a216a8206bf2463c2a1a3846b345606533ff2",
+  "results/pseudo-label-counts.csv": "f1663366a217745bbe2b9180f563dd1a052c6472cccf25c40d1c0910476897a4",
+  "results/pseudo-labelled-confusion.csv": "a8c35125d297c42b58dd3bdf44bb553417cfef1fe4fc4e30adf1372d6cb7acb5",
+  "results/run-record.json": "a11be4b8676acd91781a9dacbb73a950f557935b59b31ac4dd27787ac9bf283f",
+  "results/supervised-confusion.csv": "710625c6a2bf7ee840161d0e3c203023de671055c2ad74b5f660e8557b4ae9e5",
+  "results/test-metrics.csv": "e4b744888f732e5a787108291df6342a10a3f85605082546079f3aa3a4b54972",
+  "results/threshold-search.csv": "078e2262e7c9dad06453446d130ae8e5ca5cc5bf820f3b2bf2a79d8dc7aa2025",
+  "src/adult_income.py": "6bdba6beef6236b4470e1bfab30a00a88d7aeb58ca2a9962a3440c2eb5d7a895"
+}
